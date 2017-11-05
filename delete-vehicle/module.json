@@ -1,8 +1,8 @@
 {
   "info": {
-    "author": "",
+    "author": "Lunar",
     "author_url": "",
-    "description": "Auto-generated",
+    "description": "Script for the deletion of vehicles by using /dv.",
     "name": "delete-vehicle"
   }
 }
